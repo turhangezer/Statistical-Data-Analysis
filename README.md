@@ -31,9 +31,10 @@ Veri topluluğunuzun değerlerini görebileceğiniz içerik bölümü:
 
 # Kullanılan Teknoljiler
 
-- HTML
-- CSS
-- JS
+- HTML5
+- CSS3
+- Bootstrap5
+- JavaScript
 
 # Ekip Üyeleri
 
