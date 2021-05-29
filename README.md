@@ -23,11 +23,11 @@ Verilerinizin girişini yapacağınız giriş bölümü:
 
 ⚠️ Veri girişinizi yaparken verilerinizin arasına <b>","</b> koyarak giriniz.
 
-<img src="images/index.PNG"  width="600" height="400">
+<img src="images/index.JPG"  width="600" height="300">
 
 Veri topluluğunuzun değerlerini görebileceğiniz içerik bölümü:
 
-<img src="images/result.PNG"  width="600" height="350">
+<img src="images/result.PNG"  width="600" height="300">
 
 # Kullanılan Teknoljiler
 
