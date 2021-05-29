@@ -1,7 +1,7 @@
 # 🧮Olasılık ve İstatistik Dersi Vize-Grup Ödevi
 
 ## Siteye buradan ulaşabilirsiniz.
-👉 [Site Linki]() 👈
+👉 [Site Linki](https://turhangezer.github.io/Statistical-Data-Analysis/) 👈
 
 Bu site sayesinde, siteye veri girişi yapabilirsiniz.
 Girişini yaptığınız veri topluluğuyla ilgili;
