@@ -38,6 +38,6 @@ Veri topluluğunuzun değerlerini görebileceğiniz içerik bölümü:
 # Ekip Üyeleri
 
 - [Selçuk Şan](https://github.com/selcuksan)
-- [Turhan Gezer](https://github.com/turhangezer)
+- [Ahmet Mert Öz](https://github.com/ahmetmert1)
 - [Sefa Enes Ergin](https://github.com/sefaenesergin) 
 
